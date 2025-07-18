@@ -1,5 +1,0 @@
-print('write the mass and height')
-m=float(input())
-h=float(input())
-b=m/(h**2)
-print(b)
